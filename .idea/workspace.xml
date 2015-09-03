@@ -1,7 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4b1bb43-b848-4011-9035-f82cedbe8e54" name="Default" comment="" />
+    <list default="true" id="b4b1bb43-b848-4011-9035-f82cedbe8e54" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure4$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure5$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure6$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource$_run_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/DataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/grails-gradle-model-3.0.4-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/grails-gradle-model-3.0.4.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Alternative$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Alternative$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Alternative.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Alternative.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/AlternativeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Application.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ApplicationLoader.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ApplicationLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication$__clinit__closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication$__clinit__closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/ArchApplicationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Decision$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Decision$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Decision.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Decision.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/DecisionController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/InterRelationship$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/InterRelationship$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/InterRelationship.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/InterRelationship.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Quality$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Quality$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Quality.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Quality.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/QualityController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder$__clinit__closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder$__clinit__closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/Stakeholder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/StakeholderController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2$_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2$_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings.class" afterPath="$PROJECT_DIR$/build/classes/main/UrlMappings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/User$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/User$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/User.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/newgrails/UserController.class" afterPath="$PROJECT_DIR$/build/classes/main/newgrails/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newgrails.iml" afterPath="$PROJECT_DIR$/newgrails.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="newgrails.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -88,117 +272,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArchApplication.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/ArchApplication.groovy">
+      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/user/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArchApplicationControllerSpec.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/newgrails/ArchApplicationControllerSpec.groovy">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Decision.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Decision.groovy">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33027524">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Alternative.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Alternative.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Alternative.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterRelationship.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/InterRelationship.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stakeholder.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Stakeholder.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quality.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Quality.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QualityController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/newgrails/QualityController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-              <folding>
-                <element signature="e#19#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/quality/create.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.08522727">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1017,6 +1134,7 @@
         <option value="$PROJECT_DIR$/grails-app/domain/newgrails/Stakeholder.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/newgrails/Quality.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/newgrails/Decision.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
       </list>
     </option>
   </component>
@@ -1062,8 +1180,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -1090,15 +1208,17 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.5080569" />
+    <property name="project.structure.side.proportion" value="0.3027451" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1433,8 +1553,19 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.newgrails [run]" />
+    <configuration default="false" name="Grails:newgrails" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="newgrails" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Grails.Grails:newgrails" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.newgrails [run]" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -1461,12 +1592,21 @@
       <workItem from="1439348139506" duration="7723000" />
       <workItem from="1439357440438" duration="2491000" />
       <workItem from="1439383756696" duration="5559000" />
-      <workItem from="1439421532646" duration="550000" />
+      <workItem from="1439421532646" duration="4311000" />
+      <workItem from="1439437017652" duration="29000" />
+      <workItem from="1439444043863" duration="269000" />
+      <workItem from="1439445329485" duration="82000" />
+      <workItem from="1439683952858" duration="101000" />
+      <workItem from="1439771336669" duration="227000" />
+      <workItem from="1440751476457" duration="1330000" />
+      <workItem from="1440905010622" duration="1373000" />
+      <workItem from="1440999651245" duration="19000" />
+      <workItem from="1441252194667" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16323000" />
+    <option name="totallyTimeSpent" value="23537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1478,39 +1618,40 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867885" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14590965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30769232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867885" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21672772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867885" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32975295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1537,140 +1678,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/ArchApplication.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/newgrails/ArchApplicationControllerSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Decision.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Alternative.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/InterRelationship.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Stakeholder.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Quality.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/newgrails/QualityController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#19#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/quality/create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="87" selection-start-line="23" selection-start-column="87" selection-end-line="23" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/UrlMappings.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1695,31 +1707,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newgrails.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/grails-gradle-model-3.0.4-sources.jar!/org/grails/gradle/plugin/model/DefaultGrailsClasspath.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/grails-gradle-model-3.0.4-sources.jar!/org/grails/gradle/plugin/model/GrailsClasspath.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1758,38 +1749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/init/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/UrlMappings.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1814,7 +1777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1822,9 +1784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#19#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1832,26 +1791,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Alternative.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/InterRelationship.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
@@ -1869,18 +1815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/ArchApplication.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
@@ -1891,7 +1825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
@@ -1905,10 +1838,222 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/ArchApplication.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/decision/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.25532">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/newgrails/AlternativeController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.086957">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/alternative/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/create.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.625">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/newgrails/DecisionController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.130435">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Decision.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33027524">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.5769231">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.625">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/decision/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.9787235">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/decision/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7021277">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/50ad6711cbca54f420827639022793f47a53cd0a/fields-2.0.3.jar!/gsp_fields_templates__fields_table_gsp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10526316">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/5ae9803c6f4adc0b4155aca97a6e4bff894cd4ad/fields-2.0.3-sources.jar!/fields/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22613065">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/5ae9803c6f4adc0b4155aca97a6e4bff894cd4ad/fields-2.0.3-sources.jar!/grails/plugin/formfields/FieldsGrailsPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/5ae9803c6f4adc0b4155aca97a6e4bff894cd4ad/fields-2.0.3-sources.jar!/grails/plugin/formfields/FormFieldsTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.020101">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/50ad6711cbca54f420827639022793f47a53cd0a/fields-2.0.3.jar!/templates/_fields/_table.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36649215">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/50ad6711cbca54f420827639022793f47a53cd0a/fields-2.0.3.jar!/templates/_fields/_list.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/50ad6711cbca54f420827639022793f47a53cd0a/fields-2.0.3.jar!/gsp_fields_layouts__fieldsembedded_gsp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10526316">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/fields/2.0.3/50ad6711cbca54f420827639022793f47a53cd0a/fields-2.0.3.jar!/layouts/_fields/embedded.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/ScaffoldedController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1758794">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/Spec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/templates/scaffolding/Controller.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025125628">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/newgrails/Alternative.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08522727">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1964,11 +2109,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: org.grails:grails-gradle-plugin:3.0.4</last-edited>
+          <last-edited>grails-3.0.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5080569" />
+                <option value="0.3027451" />
               </list>
             </option>
           </splitter-proportions>
@@ -2013,11 +2158,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <last-edited>Gradle: org.grails:grails-datastore-gorm-cassandra:1.0.0-M01</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5080569" />
+                <option value="0.3027451" />
               </list>
             </option>
           </splitter-proportions>

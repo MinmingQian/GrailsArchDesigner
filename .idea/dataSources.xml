@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2535118936">
+  <component name="DataSourceManagerImpl" format="xml" hash="3198213657">
     <data-source source="LOCAL" name="MySQL - grails@localhost" uuid="de3e7846-e5b2-4328-baa7-d90180862258">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
